@@ -22,4 +22,21 @@
  *   databaseURL: 'https://your-project-default-rtdb.europe-west1.firebasedatabase.app'
  * };
  */
-window.PS_FIREBASE = null;
+window.PS_FIREBASE = {
+
+  apiKey: 'AIzaSyAfA2SAkjJVmshZMb6z2qmTokZq7eGQzOU',
+
+  authDomain: 'poke-survivor-fee67.firebaseapp.com',
+
+  projectId: 'poke-survivor-fee67',
+
+  storageBucket: 'poke-survivor-fee67.firebasestorage.app',
+
+  messagingSenderId: '1038609534058',
+
+  appId: '1:1038609534058:web:42cfa50d28ab3ea64b0e13',
+
+  databaseURL: 'https://poke-survivor-fee67-default-rtdb.asia-southeast1.firebasedatabase.app'
+
+};
+
